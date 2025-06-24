@@ -120,7 +120,7 @@ def create_gui():
 
     # Info-Button ganz rechts
     def show_info():
-        messagebox.showinfo("Info", "Sendmails - Carlos Gonzalez 2024 - KIT Fak. Architektur - GPLv3")
+        messagebox.showinfo("Info", "Sendmails - Xastherion 2024 - GPLv3")
 
     info_button = tk.Button(button_frame, text="(i)", command=show_info, width=1, height=1, font=("Arial", 8))
     info_button.grid(row=0, column=3, padx=10, pady=5)

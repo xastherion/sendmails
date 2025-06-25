@@ -1,6 +1,6 @@
-﻿Dear {Mr} {FirstName} {SecondName},
+﻿Dear {Title} {FirstName} {SecondName},
 
-As a student of {Study} in the Faculty of {Faculty}, we are pleased to inform you that your profile (ID: {ID}, Email: {EmailAdresse}) has been selected to take part in our exclusive pilot program for emerging professionals in your field.
+As a student of {Value1} in the Faculty of {Value2}, we are pleased to inform you that your profile (ID: {IDNumber}, Email: {Email}) has been selected to take part in our exclusive pilot program for emerging professionals in your field.
 
 This initiative connects promising individuals like you with industry leaders and provides early access to cutting-edge tools and networking opportunities.
 

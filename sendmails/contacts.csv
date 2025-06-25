@@ -1,20 +1,6 @@
-﻿ID;FirstName;SecondName;Study;Faculty;Gender;EmailAdresse;TAN
-A12345678;Lena;Miller;Computer Science;Technology;F;lena.miller@example.com;183920
-B98765432;Tom;Smith;Medicine;Health;M;tom.smith@example.com;283745
-C45678901;Anna;Taylor;Psychology;Social Sciences;F;anna.taylor@example.com;293847
-D11223344;Max;Anderson;Mechanical Engineering;Technology;M;max.anderson@example.com;102938
-E99887766;Julia;Brown;Law;Law;F;julia.brown@example.com;384756
-F66778899;Lukas;Johnson;Business Administration;Economics;M;lukas.johnson@example.com;564738
-G33445566;Marie;Lee;Design;Arts;F;marie.lee@example.com;473829
-H22334455;Paul;Walker;Physics;Natural Sciences;M;paul.walker@example.com;937465
-I77889900;Laura;Martinez;Biology;Natural Sciences;F;laura.martinez@example.com;204958
-J55667788;Jonas;Lopez;Chemistry;Natural Sciences;M;jonas.lopez@example.com;847362
-K44332211;Nina;Wilson;Architecture;Technology;F;nina.wilson@example.com;182736
-L33221100;Felix;Clark;Sociology;Social Sciences;M;felix.clark@example.com;374829
-M22110099;Emma;Hall;Mathematics;Technology;F;emma.hall@example.com;938472
-N11009988;Leo;Allen;Music;Arts;M;leo.allen@example.com;483920
-O00998877;Clara;Young;Philosophy;Humanities;F;clara.young@example.com;473920
-P88887766;Jan;King;Education;Social Sciences;M;jan.king@example.com;102938
-Q77776655;Sara;Scott;Sports Science;Health;F;sara.scott@example.com;473910
-R66665544;David;Green;Electrical Engineering;Technology;M;david.green@example.com;948372
-
+﻿IDNumber;FirstName;SecondName;Value1;Value2;Title;Email
+A12345678;Lena;Miller;Computer Science;Technology;Mrs.;lena.miller@example.com;183920
+B98765432;Tom;Smith;Medicine;Health;;tom.smith@example.com;283745
+C45678901;Anna;Taylor;Psychology;Social Sciences;Mrs.;anna.taylor@example.com;293847
+D11223344;Max;Anderson;Mechanical Engineering;Technology;Dr.;max.anderson@example.com;102938
+E99887766;Julia;Brown;Law;Law;BA.;julia.brown@example.com;384756

@@ -122,11 +122,10 @@ def create_gui():
     def show_info():
         messagebox.showinfo("Info", "Sendmails - Xastherion 2024 - GPLv3")
 
-    info_button = tk.Button(button_frame, text="(i)", command=show_info, width=1, height=1, font=("Arial", 8))
+    info_button = tk.Button(button_frame, text="ⓘ", command=show_info, width=1, height=1, font=("Arial", 8))
     info_button.grid(row=0, column=3, padx=10, pady=5)
 
     root.mainloop()
 
 # GUI aufrufen
 create_gui()
-
